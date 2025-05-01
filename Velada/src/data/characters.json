@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "fighters": [
+        { "id": 101, "name": "Peereira7" },
+        { "id": 102, "name": "Rivaldios" }
+      ]
+    },
+    {
+      "id": 2,
+      "fighters": [
+        { "id": 103, "name": "Perxitaa" },
+        { "id": 104, "name": "Gaspi" }
+      ]
+    },
+    {
+      "id": 3,
+      "fighters": [
+        { "id": 105, "name": "Abby" },
+        { "id": 106, "name": "RoRo" }
+      ]
+    },
+    {
+      "id": 4,
+      "fighters": [
+        { "id": 107, "name": "Andoni" },
+        { "id": 108, "name": "Carlos Belcast" }
+      ]
+    },
+    {
+      "id": 5,
+      "fighters": [
+        { "id": 109, "name": "Alana" },
+        { "id": 110, "name": "Ari Geli" }
+      ]
+    },
+    {
+      "id": 6,
+      "fighters": [
+        { "id": 111, "name": "Viruzz" },
+        { "id": 112, "name": "Tomás Mazza" }
+      ]
+    },
+    {
+      "id": 7,
+      "fighters": [
+        { "id": 113, "name": "TheGrefg" },
+        { "id": 114, "name": "Westcol" }
+      ]
+    }
+  ]
+  
