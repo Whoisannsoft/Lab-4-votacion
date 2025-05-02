@@ -5,3 +5,4 @@ export const voteCharacter = (fightId: number, characterId: number) => ({
       characterId
     }
   });
+  
